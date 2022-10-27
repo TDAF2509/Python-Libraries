@@ -1,0 +1,4 @@
+HighScore: 91           
+Number of times played: 267          
+Number of Keys collected: 36           
+Total Play Time: 15.133333333333333           

@@ -1,0 +1,14 @@
+HighScore: 1           
+Number of times played: 1          
+Number of Keys collected: 1           
+Total Play Time: 1.0666666666666667           
+Red: 0              
+Blue: 0              
+Green: 0              
+Gold: 0              
+LightBlue: 0              
+FlashingRed: 0              
+FlashingBlue: 0              
+FlashingGreen: 0              
+FlashingGold: 0              
+Sonic: 0              
